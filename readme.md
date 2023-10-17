@@ -1,4 +1,12 @@
-# CelsiaVision
-## Contact celsiastarflare@outlook.com --> MY EMAIL
+# CelsiaNylon
+## Contact osmond91349@outlook.com or celsiastarflare@outlook.com --> MY EMAIL
 
-Celsia Vision is a early prototype of the final product of Celsia, however, provides an insight to how to build the project and also serves as a third party library to program faster. This project is mainly focused on auto classification of images and guess the usage of the images. The program is not given an initial dataset or can be given one to create further smaller classification groups. In the research paper of Computer-Vision Enhanced Lightweight System for Interface Automation(CELSIA), we included partitial program from this project as optimization of the project is not yet improved and could take up too much resources. If you want to collaborate on this project please email via osmond91349@outlook.com or celsiastarflare@outlook.com to inform or give advices on Project CELSIAVision.
+### Upload of the files is pending, wait until Sat Oct 21(UTC+8) to view this project.
+Celsia Nylon is a early prototype of the final product of Celsia's DRIPS system, and it serves as a completely independent DBMS system which can be used as a thrid party library. 
+
+To do:
+1. Create dynamic auto classifier
+2. Time heirarchy weight
+3. Relevance Weight Bonus 2.0
+
+Current Version: 1.0.1.23
